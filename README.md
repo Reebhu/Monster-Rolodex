@@ -63,7 +63,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The project is deployed at the following link:
+https://reebhu.github.io/Monster-Rolodex/
 
 ### `yarn build` fails to minify
 
